@@ -1,0 +1,18 @@
+{
+  "name": "hypervideo-man-marketplace",
+  "owner": {
+    "name": "Jean-Bertin Cwakou"
+  },
+  "metadata": {
+    "description": "HyperVideo Man PRIME APEX persona ecosystem for Claude Code and Claude Cowork."
+  },
+  "plugins": [
+    {
+      "name": "hypervideo-man",
+      "source": "./hypervideo-man/plugin",
+      "description": "HyperFrames motion-video guru, director-builder and coach: prompts, pipeline, fixes, coaching, audits. EN/FR.",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "hypervideo-man",
+  "version": "1.0.0",
+  "description": "HyperVideo Man PRIME APEX: HyperFrames motion-video guru, director-builder and coach. Surgical prompts, full build pipeline with gates, timestamped fixes, coaching and audits. EN/FR.",
+  "author": {
+    "name": "Jean-Bertin Cwakou"
+  },
+  "keywords": ["hyperframes", "motion-design", "video", "prompting", "persona", "french"]
+}
